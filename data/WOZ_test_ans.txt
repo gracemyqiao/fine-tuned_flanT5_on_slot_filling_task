@@ -1,0 +1,400 @@
+find_restaurant|restaurant-name=golden wok
+find_hotel|hotel-internet=yes
+find_hotel|hotel-area=north|hotel-stars=4
+find_restaurant|restaurant-food=asian oriental|restaurant-pricerange=cheap
+find_hotel|hotel-internet=yes|hotel-stars=5
+find_hotel|hotel-area=east|hotel-pricerange=cheap
+find_restaurant|restaurant-food=modern european|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=south indian|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-stars=3
+find_hotel|hotel-pricerange=moderate|hotel-type=guesthouse
+find_hotel|hotel-name=carolina bed and breakfast
+find_hotel|hotel-area=north|hotel-type=guesthouse
+find_restaurant|restaurant-area=north|restaurant-food=french
+find_hotel|hotel-parking=yes|hotel-pricerange=moderate
+find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+find_restaurant|restaurant-name=chiquito restaurant bar
+find_restaurant|restaurant-name=charlie chan
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=cheap
+find_restaurant|restaurant-name=pizza hut fen ditton
+find_hotel|hotel-internet=yes|hotel-type=guesthouse
+find_hotel|hotel-pricerange=moderate|hotel-stars=2
+find_hotel|hotel-pricerange=expensive|hotel-stars=3
+find_hotel|hotel-area=north
+find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_hotel|hotel-pricerange=moderate|hotel-stars=4
+find_restaurant|restaurant-area=centre
+find_restaurant|restaurant-name=meghna
+find_hotel
+find_hotel|hotel-name=a and b guest house
+find_restaurant
+find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+find_hotel|hotel-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-pricerange=moderate
+find_hotel|hotel-area=centre|hotel-pricerange=cheap
+find_hotel|hotel-area=west|hotel-stars=4
+find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+find_restaurant
+find_restaurant|restaurant-name=bedouin
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-stars=2
+find_hotel|hotel-name=carolina bed and breakfast
+find_restaurant|restaurant-food=swedish|restaurant-pricerange=moderate
+find_restaurant|restaurant-area=centre|restaurant-food=chinese
+find_hotel|hotel-area=east|hotel-internet=yes
+find_restaurant|restaurant-area=north|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=italian
+find_restaurant|restaurant-name=sala thong
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_hotel|hotel-name=a and b guest house
+find_hotel
+find_hotel
+find_restaurant|restaurant-area=north|restaurant-pricerange=expensive
+find_hotel|hotel-stars=4|hotel-type=guesthouse
+find_hotel
+find_restaurant
+find_restaurant|restaurant-area=centre|restaurant-food=catalan
+find_restaurant
+find_restaurant|restaurant-area=west|restaurant-food=afghan
+find_restaurant|restaurant-food=portuguese
+find_hotel|hotel-internet=yes
+find_hotel|hotel-name=lensfield hotel
+find_hotel|hotel-name=flinches bed and breakfast
+find_hotel
+find_restaurant
+find_restaurant|restaurant-food=panasian|restaurant-pricerange=expensive
+find_hotel|hotel-stars=4
+find_hotel|hotel-area=south|hotel-parking=yes
+find_restaurant|restaurant-area=east|restaurant-pricerange=cheap
+find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+find_restaurant|restaurant-name=nandos
+find_hotel
+find_hotel|hotel-parking=yes|hotel-type=guesthouse
+find_hotel|hotel-internet=yes|hotel-type=guesthouse
+find_restaurant|restaurant-area=centre
+find_restaurant
+find_restaurant|restaurant-pricerange=cheap
+find_restaurant
+find_hotel
+find_hotel|hotel-area=south
+find_restaurant|restaurant-area=centre|restaurant-food=indian
+find_restaurant|restaurant-area=east|restaurant-food=gastropub
+find_restaurant|restaurant-name=cocum
+find_restaurant|restaurant-area=centre|restaurant-food=asian oriental
+find_hotel|hotel-internet=yes
+find_restaurant|restaurant-area=centre|restaurant-food=mexican
+find_restaurant|restaurant-area=centre
+find_restaurant|restaurant-food=british|restaurant-pricerange=moderate
+find_restaurant|restaurant-area=centre|restaurant-food=halal
+find_restaurant|restaurant-name=saigon city
+find_hotel|hotel-parking=yes
+find_restaurant|restaurant-area=centre|restaurant-food=venetian
+find_restaurant|restaurant-food=indian
+find_hotel|hotel-pricerange=expensive|hotel-stars=4
+find_restaurant|restaurant-name=cocum
+find_restaurant|restaurant-name=the slug and lettuce
+find_restaurant
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=corsica|restaurant-pricerange=cheap
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_hotel|hotel-name=el shaddai
+find_restaurant|restaurant-area=centre|restaurant-food=italian
+find_hotel|hotel-pricerange=cheap|hotel-stars=4
+find_restaurant|restaurant-food=mediterranean
+find_restaurant|restaurant-food=modern european|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-food=african|restaurant-pricerange=expensive
+find_hotel|hotel-area=north|hotel-type=guesthouse
+find_restaurant|restaurant-food=indian|restaurant-pricerange=moderate
+find_hotel|hotel-stars=2
+find_restaurant|restaurant-area=centre|restaurant-food=chinese
+find_hotel|hotel-name=university arms hotel
+find_restaurant|restaurant-area=centre|restaurant-food=italian
+find_hotel|hotel-name=city centre north b and b
+find_restaurant|restaurant-name=restaurant one seven
+find_restaurant|restaurant-food=vegetarian|restaurant-pricerange=expensive
+find_hotel|hotel-pricerange=moderate
+find_hotel|hotel-pricerange=moderate|hotel-stars=4
+find_restaurant
+find_restaurant|restaurant-food=indian|restaurant-pricerange=moderate
+find_restaurant|restaurant-name=thanh binh
+find_hotel|hotel-area=north
+find_restaurant|restaurant-area=centre|restaurant-food=brazilian
+find_hotel|hotel-parking=yes|hotel-pricerange=cheap
+find_restaurant
+find_hotel|hotel-area=north
+find_restaurant|restaurant-name=bangkok city
+find_restaurant|restaurant-area=north|restaurant-pricerange=cheap
+find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+find_hotel|hotel-name=aylesbray lodge guest house
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-food=brazilian|restaurant-pricerange=cheap
+find_hotel|hotel-internet=yes|hotel-stars=3
+find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+find_hotel|hotel-stars=4
+find_hotel
+find_hotel|hotel-pricerange=cheap
+find_hotel|hotel-internet=dontcare|hotel-type=guesthouse
+find_restaurant|restaurant-area=east|restaurant-food=chinese
+find_restaurant|restaurant-food=caribbean
+find_hotel|hotel-internet=yes|hotel-type=guesthouse
+find_hotel|hotel-internet=yes|hotel-pricerange=expensive
+find_hotel|hotel-name=warkworth house
+find_hotel|hotel-internet=yes|hotel-stars=3
+find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+find_hotel|hotel-area=north|hotel-pricerange=expensive
+find_hotel|hotel-parking=yes|hotel-type=guesthouse
+find_hotel
+find_hotel|hotel-name=aylesbray lodge guest house
+find_restaurant|restaurant-area=centre
+find_hotel|hotel-parking=yes|hotel-stars=1
+find_restaurant|restaurant-name=city stop restaurant
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=british
+find_hotel
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=british|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=vegetarian
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_hotel|hotel-area=east|hotel-type=guesthouse
+find_restaurant|restaurant-area=centre|restaurant-food=indian
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=chinese
+find_restaurant|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=british
+find_restaurant|restaurant-name=pizza hut in cherry hinton
+find_restaurant|restaurant-food=indian
+find_hotel|hotel-parking=yes|hotel-pricerange=cheap
+find_hotel|hotel-area=centre
+find_restaurant|restaurant-area=centre|restaurant-food=corsica
+find_restaurant|restaurant-area=centre|restaurant-food=jamaican
+find_restaurant|restaurant-food=british|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=european
+find_hotel|hotel-name=hamilton lodge
+find_hotel|hotel-area=north|hotel-type=guesthouse
+find_hotel
+find_hotel|hotel-area=north|hotel-type=guesthouse
+find_restaurant|restaurant-food=gastropub
+find_restaurant|restaurant-area=centre|restaurant-food=italian|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=international
+find_restaurant|restaurant-food=african|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=west|restaurant-food=british
+find_hotel|hotel-name=finches bed and breakfast
+find_restaurant|restaurant-food=danish|restaurant-pricerange=expensive
+find_hotel|hotel-name=worth house
+find_restaurant|restaurant-area=centre
+find_hotel|hotel-name=warkworth house
+find_hotel|hotel-parking=no|hotel-stars=0
+find_restaurant|restaurant-area=west|restaurant-food=european
+find_restaurant|restaurant-food=mediterranean|restaurant-pricerange=expensive
+find_hotel|hotel-parking=yes
+find_hotel|hotel-pricerange=moderate
+find_hotel|hotel-name=huntingdon marriott hotel
+find_hotel
+find_restaurant|restaurant-area=centre|restaurant-food=indian
+find_restaurant|restaurant-name=prezzo
+find_restaurant|restaurant-area=west|restaurant-food=european
+find_restaurant|restaurant-area=south|restaurant-food=vietnamese
+find_restaurant|restaurant-area=east|restaurant-pricerange=moderate
+find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+find_hotel
+find_restaurant|restaurant-name=good luck
+find_hotel|hotel-name=warkworth house
+find_hotel|hotel-name=carolina bed and breakfast
+find_hotel
+find_hotel|hotel-area=centre|hotel-stars=4
+find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes|hotel-pricerange=cheap
+find_restaurant|restaurant-name=kohinoor
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-area=centre|restaurant-pricerange=cheap
+find_hotel|hotel-internet=yes|hotel-type=guesthouse
+find_restaurant|restaurant-area=south|restaurant-food=italian
+find_hotel|hotel-parking=yes|hotel-stars=0
+find_hotel|hotel-parking=yes|hotel-stars=4
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-stars=3
+find_hotel|hotel-area=east|hotel-pricerange=expensive
+find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+find_hotel|hotel-parking=free|hotel-type=guesthouse
+find_hotel|hotel-internet=free|hotel-type=guesthouse
+find_restaurant|restaurant-food=british
+find_restaurant|restaurant-food=turkish|restaurant-pricerange=moderate
+find_hotel|hotel-area=north|hotel-stars=4
+find_hotel|hotel-name=warkworth house
+find_restaurant|restaurant-food=indian|restaurant-pricerange=cheap
+find_hotel|hotel-area=centre|hotel-pricerange=expensive
+find_hotel|hotel-name=gonville hotel
+find_hotel|hotel-name=arbury lodge guesthouse
+find_hotel
+find_hotel|hotel-name=a and b guest house
+find_restaurant
+find_hotel|hotel-pricerange=expensive|hotel-type=guesthouse
+find_hotel|hotel-name=ashley hotel
+find_restaurant|restaurant-area=centre|restaurant-food=italian
+find_hotel|hotel-internet=yes|hotel-stars=4
+find_restaurant|restaurant-name=midsummer house restaurant
+find_restaurant|restaurant-area=centre|restaurant-food=weish
+find_restaurant|restaurant-area=centre|restaurant-food=north indian
+find_hotel|hotel-pricerange=cheap
+find_hotel|hotel-name=archway house
+find_hotel
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-parking=yes|hotel-type=guesthouse
+find_hotel|hotel-area=east|hotel-internet=dontcare
+find_restaurant|restaurant-area=east|restaurant-pricerange=moderate
+find_hotel|hotel-parking=yes|hotel-type=guesthouse
+find_restaurant|restaurant-food=molecular gastronomy
+find_restaurant|restaurant-name=mahal of cambridge
+find_restaurant|restaurant-food=indian|restaurant-pricerange=moderate
+find_hotel|hotel-name=limehouse
+find_hotel|hotel-area=south|hotel-parking=dontcare
+find_restaurant|restaurant-area=centre|restaurant-food=modern european
+find_restaurant
+find_hotel|hotel-name=cityroomz
+find_hotel|hotel-name=hobsons house
+find_hotel|hotel-internet=yes|hotel-type=guesthouse
+find_hotel|hotel-parking=yes|hotel-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=mediterranean
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=moderate
+find_hotel|hotel-area=east|hotel-pricerange=cheap
+find_restaurant|restaurant-food=chinese|restaurant-pricerange=expensive
+find_restaurant|restaurant-name=the gardenia
+find_restaurant|restaurant-name=curry garden
+find_restaurant|restaurant-food=italian|restaurant-pricerange=expensive
+find_hotel
+find_hotel|hotel-parking=yes|hotel-stars=3
+find_restaurant|restaurant-area=centre
+find_restaurant|restaurant-food=belgian|restaurant-pricerange=cheap
+find_hotel|hotel-internet=dontcare|hotel-parking=yes
+find_hotel|hotel-pricerange=cheap
+find_restaurant
+find_hotel|hotel-name=archway house
+find_restaurant|restaurant-name=the varsity restaurant
+find_hotel
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel|hotel-internet=yes
+find_hotel|hotel-internet=yes|hotel-stars=3
+find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+find_hotel|hotel-pricerange=moderate|hotel-stars=4
+find_hotel|hotel-area=east|hotel-stars=4
+find_restaurant
+find_hotel|hotel-internet=yes|hotel-pricerange=cheap
+find_restaurant|restaurant-name=meze bar
+find_hotel|hotel-name=allenbell
+find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+find_hotel|hotel-area=south|hotel-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=asian oriental
+find_hotel|hotel-name=aylesbray lodge guest house
+find_hotel|hotel-parking=yes|hotel-pricerange=moderate
+find_restaurant|restaurant-area=centre|restaurant-food=british
+find_restaurant|restaurant-area=east|restaurant-food=indian
+find_restaurant
+find_hotel|hotel-stars=3|hotel-type=guesthouse
+find_restaurant|restaurant-area=centre|restaurant-food=british
+find_hotel|hotel-name=rosas bed and breakfast
+find_hotel|hotel-pricerange=expensive|hotel-stars=3
+find_restaurant|restaurant-food=indian|restaurant-pricerange=expensive
+find_restaurant|restaurant-food=modern global|restaurant-pricerange=expensive
+find_hotel|hotel-type=dontcare
+find_hotel|hotel-area=east
+find_restaurant|restaurant-food=spanish|restaurant-pricerange=cheap
+find_restaurant|restaurant-area=east
+find_hotel|hotel-pricerange=expensive
+find_restaurant|restaurant-food=afternoon tea|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=chinese
+find_hotel|hotel-name=a and b guest house
+find_restaurant|restaurant-name=little seoul
+find_hotel|hotel-area=centre|hotel-pricerange=expensive
+find_hotel|hotel-name=warkworth house
+find_restaurant|restaurant-food=modern european
+find_hotel|hotel-area=east|hotel-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_hotel
+find_restaurant
+find_hotel|hotel-pricerange=cheap
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=east|restaurant-food=canapes
+find_restaurant
+find_hotel|hotel-name=alpha-milton guest house
+find_restaurant|restaurant-name=la raza
+find_hotel|hotel-stars=3
+find_hotel|hotel-area=north
+find_hotel
+find_hotel|hotel-stars=3|hotel-type=guesthouse
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_restaurant|restaurant-food=south african|restaurant-pricerange=cheap
+find_hotel|hotel-parking=yes|hotel-pricerange=expensive
+find_restaurant|restaurant-food=mexican|restaurant-pricerange=expensive
+find_hotel|hotel-stars=3
+find_hotel|hotel-internet=yes|hotel-parking=yes
+find_restaurant|restaurant-area=centre
+find_hotel|hotel-name=acorn guest house
+find_restaurant|restaurant-name=golden wok
+find_restaurant
+find_hotel|hotel-name=cambridge belfry
+find_restaurant|restaurant-food=asian|restaurant-pricerange=cheap
+find_hotel|hotel-pricerange=cheap|hotel-type=guesthouse
+find_restaurant
+find_restaurant|restaurant-name=india house
+find_hotel|hotel-area=centre|hotel-parking=yes
+find_restaurant|restaurant-name=loch fyne
+find_hotel|hotel-parking=yes|hotel-pricerange=moderate
+find_restaurant|restaurant-name=la margherita
+find_restaurant|restaurant-food=chinese
+find_hotel|hotel-internet=yes|hotel-pricerange=expensive
+find_hotel|hotel-parking=yes|hotel-pricerange=expensive
+find_hotel|hotel-area=north
+find_hotel
+find_hotel|hotel-stars=4|hotel-type=guesthouse
+find_restaurant|restaurant-name=saigon city
+find_restaurant|restaurant-pricerange=cheap
+find_hotel|hotel-area=centre
+find_restaurant|restaurant-name=stazione restaurant and coffee bar
+find_hotel|hotel-stars=4
+find_restaurant|restaurant-name=nandos city centre
+find_hotel|hotel-stars=3
+find_hotel|hotel-name=el shaddai
+find_hotel|hotel-internet=yes|hotel-pricerange=moderate
+find_hotel|hotel-name=autumn house
+find_restaurant|restaurant-area=centre|restaurant-pricerange=moderate
+find_restaurant|restaurant-name=darrys cookhouse and wine shop
+find_hotel|hotel-name=cityroomz
+find_hotel|hotel-name=alpha-milton guest house|hotel-type=guesthouse
+find_restaurant|restaurant-food=turkish|restaurant-pricerange=expensive
+find_hotel|hotel-name=warkworth house
+find_hotel|hotel-parking=yes
+find_hotel|hotel-internet=yes|hotel-stars=4
+find_restaurant|restaurant-area=south|restaurant-pricerange=expensive
+find_restaurant|restaurant-food=eritrean
+find_restaurant|restaurant-pricerange=expensive
+find_restaurant
+find_restaurant|restaurant-area=centre|restaurant-food=international
+find_restaurant|restaurant-area=centre|restaurant-pricerange=expensive
+find_restaurant|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=north|restaurant-food=italian
+find_restaurant|restaurant-area=east|restaurant-pricerange=expensive
+find_hotel|hotel-name=alpha-milton guest house
+find_restaurant|restaurant-food=mediterranean
+find_restaurant|restaurant-food=gastropub|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=centre|restaurant-food=hungarian
+find_hotel|hotel-pricerange=moderate
+find_restaurant|restaurant-area=west|restaurant-pricerange=expensive
+find_restaurant|restaurant-area=south|restaurant-food=eastern european
+find_hotel|hotel-area=north|hotel-pricerange=cheap
+find_hotel
+find_restaurant|restaurant-area=north|restaurant-food=indian
+find_restaurant|restaurant-area=centre|restaurant-food=chinese
+find_hotel|hotel-parking=no|hotel-type=guesthouse
